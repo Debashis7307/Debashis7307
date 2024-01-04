@@ -30,5 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debashis7307&theme=holi&show_icons=true" alt="debashis7307" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debashis7307&" alt="debashis7307" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debashis7307&theme=tokyonight-duo&" alt="debashis7307" /></p>
 
