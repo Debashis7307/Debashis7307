@@ -1,7 +1,10 @@
 <h1 align="center">Hey there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi">, I'm Debashis</h1>
 <h3 align="center">Full Stack Developer | AI & ML Enthusiast | Love to explore in the field of Tech <br> ♥ Let's code our dreams into reality ♥</h3>
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debashis7307&label=Profile%20views&color=0e75b6&style=flat" alt="debashis7307" /> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=debashis7307&label=Profile%20views&color=0e75b6&style=flat" alt="debashis7307" />
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="gif" style="float: right;" />
+</p>
 
 - 🔭 I’m currently working on **some frontend projects & exploring AI & ML with python**
 
