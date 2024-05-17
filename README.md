@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **web dev projects**   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="gif" style="align:right ; width: 300px;" />
+- 👯 I’m looking to collaborate on **web dev projects** <span>  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="gif" style="align:right ; width: 300px;" /> </span>
 
 - 👨‍💻 All of my projects are available at [https://debashis-lemon.vercel.app/](https://debashis-lemon.vercel.app/)
 
