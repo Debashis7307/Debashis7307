@@ -3,14 +3,13 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=debashis7307&label=Profile%20views&color=0e75b6&style=flat" alt="debashis7307" />
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="gif" style="align:right ; width: 300px;" />
 </p>
 
 - 🔭 I’m currently working on **some frontend projects & exploring AI & ML with python**
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **web dev projects**
+- 👯 I’m looking to collaborate on **web dev projects**   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="gif" style="align:right ; width: 300px;" />
 
 - 👨‍💻 All of my projects are available at [https://debashis-lemon.vercel.app/](https://debashis-lemon.vercel.app/)
 
