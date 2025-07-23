@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **web dev projects**  
 
-- 👨‍💻 All of my projects are available at [https://debashis-lemon.vercel.app/](https://debashis-lemon.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://deb-folio.vercel.app/]([(https://deb-folio.vercel.app/)])
 
 - 💬 Ask me about **DSA in C++**
 
